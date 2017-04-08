@@ -5,6 +5,7 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/javaT"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/designPattern"/>
         <property name="context-root" value="/seckSkill"/>
         <property name="java-output-path" value="/seckSkill Maven Webapp/src/main/webapp/src/main/java"/>
     </wb-module>
